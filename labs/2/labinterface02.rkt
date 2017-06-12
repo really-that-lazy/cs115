@@ -1,0 +1,23 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname labinterface02) (read-case-sensitive #t) (teachpacks ((lib "potatohead.ss" "installed-teachpacks"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "potatohead.ss" "installed-teachpacks")) #f)))
+;; Lab 2, Question 4
+
+(define (onehalf nbr)
+  ...)
+
+;; Lab 2, Question 5
+
+(define (middle-digit nnn)
+  ...)
+
+;; Lab 2, Question 6
+
+(define (set-middle-to-zero nnn)
+  ...)
+
+
+;; Lab 2, Question 7
+
+(define (trim-string s n)
+  ...)
